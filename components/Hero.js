@@ -36,7 +36,7 @@ export default function Hero() {
               <b>Tech Cloud Ltd.</b> · Software Engineer
             </span>
             <span>
-              <b>9+</b> shipped projects
+              <b>70+</b> projects
             </span>
           </div>
         </div>

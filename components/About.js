@@ -28,12 +28,12 @@ export default function About() {
             </div>
             <div className="stat-row">
               <div className="stat-cell">
-                <div className="num">1.5+</div>
+                <div className="num">3+</div>
                 <div className="lbl">YEARS EXPERIENCE</div>
               </div>
               <div className="stat-cell">
-                <div className="num">9+</div>
-                <div className="lbl">PROJECTS SHIPPED</div>
+                <div className="num">70+</div>
+                <div className="lbl">PROJECTS</div>
               </div>
               <div className="stat-cell">
                 <div className="num">3</div>
